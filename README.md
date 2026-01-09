@@ -15,3 +15,23 @@ Additional ideas to improve the game from here:
 - Add a shield power-up
 - Add a speed power-up
 - Add bombs that can be dropped
+
+## Getting started for development
+
+Enter the pythong virtual environment:
+
+`$ source .venv/bin/activate`
+
+Run the game:
+
+`$ uv run main.py`
+
+## External Resources
+
+Online Course:
+https://www.boot.dev/courses/build-asteroids-python
+
+UV package and project manager:
+https://docs.astral.sh/uv/
+
+
